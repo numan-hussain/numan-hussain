@@ -6,5 +6,5 @@ Founder and CEO of <a href="https://www.devute.com" target="_blank">Devute</a>. 
 
 I started my professional career in 2012 as a freelancer on Upwork after 2015 I made a startup, and my dream project. I'm a full-time employee in my all startup. I have some visionary projects that could be helpful for the next generation and that's why I named my origin company NextGenty.
 
-Thank you
+Thank you <br/>
 Numan
