@@ -5,7 +5,7 @@ With a lifelong passion for technology, I embarked on my professional journey as
 
 In March 2017, I took a pivotal step and founded Devute, a dynamic software development company. At Devute, we specialize in crafting bespoke solutions in various domains, including software development, artificial intelligence, machine learning, UI/UX design, system architecture, and digital marketing. As the CEO of Devute, I lead a dedicated team of professionals, driving innovation and delivering cutting-edge solutions to our clients. Together, we're committed to pushing the boundaries of technology and shaping the digital landscape of tomorrow.
 
-Personal Website: https://numanhussain.com
+Personal Website: https://numanhussain.com <br/> 
 Company website: https://devute.com
 
 Kind Regards
