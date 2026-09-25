@@ -1,5 +1,5 @@
 <a href="https://numanhussain.com">
-  <img src="assets/banner.png" alt="Numan Hussain — Build it. Market it. Lead the team." width="100%"/>
+  <img src="https://raw.githubusercontent.com/numan-hussain/numan-hussain/main/banner.png" alt="Numan Hussain — Build it. Market it. Lead the team." width="100%"/>
 </a>
 
 <h2>Hi, I'm Numan.</h2>
@@ -15,10 +15,10 @@ Most businesses hiring for growth end up with three people: a developer, a marke
 
 <table>
   <tr>
-    <td align="center" width="25%"><h2>15</h2><sub>years shipping,<br/>since Elance in 2013</sub></td>
-    <td align="center" width="25%"><h2>250+</h2><sub>completed<br/>Upwork contracts</sub></td>
-    <td align="center" width="25%"><h2>700+</h2><sub>projects delivered<br/>through Devute</sub></td>
-    <td align="center" width="25%"><h2>3</h2><sub>products taken from<br/>MVP to app stores</sub></td>
+    <td align="center" width="25%"><h3>15</h3><sub>years shipping,<br/>since Elance in 2013</sub></td>
+    <td align="center" width="25%"><h3>250+</h3><sub>completed<br/>Upwork contracts</sub></td>
+    <td align="center" width="25%"><h3>700+</h3><sub>projects delivered<br/>through Devute</sub></td>
+    <td align="center" width="25%"><h3>3</h3><sub>products taken from<br/>MVP to app stores</sub></td>
   </tr>
 </table>
 
@@ -145,6 +145,6 @@ A 30-minute call is enough to tell whether I can help. If I cannot, I will say s
 <br/>
 
 <p align="center">
-  <img src="assets/nh-icon-forest.svg" width="44" alt="NH"/><br/>
+  <img src="https://raw.githubusercontent.com/numan-hussain/numan-hussain/main/nh-icon-forest.svg" width="44" alt="NH"/><br/>
   <sub>Numan Hussain · England, UK · Devute LTD · Everskill LTD</sub>
 </p>
